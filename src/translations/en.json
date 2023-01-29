@@ -1,0 +1,112 @@
+{
+    "home-header": {
+        "speciality": "Medial Speciality",
+        "searchdoctor": "Find Doctors by Specialty",
+        "medical-facility": "Medical facility",
+        "clinic-hospital": "Choose hospital clinic",
+        "doctor": "Doctor",
+        "good-doctor": "Choose a good doctor",
+        "checkup-package": "Checkup package",
+        "health-check": "General health check",
+        "support": "Support",
+        "welcome": "Welcome, "
+    },
+    "banner": {
+        "title1": "MEDICAL BACKGROUND",
+        "title2": "COMPREHENSIVE HEALTH CARE"
+    },
+    "options": {
+        "specialist-examination": "Specialist resistance"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "User System",
+            "manage-doctor": "Manage Doctor",
+            "manage-admin": "Manage Admin",
+            "crud": "CRUD user",
+            "crud-redux": "CRUD Redux",
+            "clinic": "Clinics",
+            "manage-clinic": "Manage Clinics",
+            "speciality": "Specialities",
+            "manage-speciality": "Manage Specialties",
+            "handbook": "Hand Book",
+            "manage-handbook": "Manage Hand Book"
+        },
+        "doctor": {
+            "manage-schedule": "Manage Doctor's schedule",
+            "manage-patient": "Manage Doctor's patient"
+        },
+        "manage-user": {
+            "add": "Add new user",
+            "email": "Email",
+            "pass-word": "Password",
+            "first-name": "FirstName",
+            "last-name": "LastName",
+            "phone-number": "PhoneNumber",
+            "address": "Address",
+            "gender": "Gender",
+            "position": "Position",
+            "roleid": "RoleId",
+            "image": "Avatar",
+            "save": "Save",
+            "edit": "Save change User !"
+        }
+    },
+    "homepage": {
+        "outstanding-doctor": "OutStanding Doctor",
+        "more-infor": "See more",
+        "specialty-poplular": "Popular specialties"
+    },
+    "manage-schedule": {
+        "title": "Manage doctor's examination plan",
+        "choose-doctor": "Choose doctor",
+        "choose-date": "Choose date",
+        "save": "Save infor"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Schedule",
+            "no-schedule": "The doctor does not have an appointment scheduled for this day. Please register for another day .",
+            "choose": "Choose",
+            "book-free": " and book (free)"
+        },
+        "extra-infor-doctor": {
+            "text-address": "Address of examination",
+            "price": "Examinition price: ",
+            "detail": "See detail",
+            "payment": "The patient can pay the cost in the form of : ",
+            "hide-price": "Hide price list"
+        },
+        "booking-modal": {
+            "title": "Information to book a medical appointment",
+            "fullName": "Full name",
+            "phoneNumber": "Phone number",
+            "email": "Email",
+            "address": "Address",
+            "reason": "Reasons for medical examination",
+            "birthday": "Date of brith",
+            "gender": "Genders",
+            "btnConfirm": "Confirm",
+            "btnCancel": "Cancel",
+            "priceBooking": "Free booking",
+            "price": "Price : "
+        }
+    },
+    "admin": {
+        "manage-doctor": {
+            "title": "Create more doctor information",
+            "select-doctor": "Select doctor",
+            "intro": "Introduction",
+            "add": "Create infor",
+            "save": "Save infor",
+            "price": "Price",
+            "payment": "Payment",
+            "province": "Province",
+            "nameClinic": "Clinic's name",
+            "addressClinic": "Clinic's address",
+            "note": "Note",
+            "specialty": "Choose a specialty",
+            "select-clinic": "Choose a clinic"
+        }
+    }
+}
