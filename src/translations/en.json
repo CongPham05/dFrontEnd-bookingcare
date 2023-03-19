@@ -17,8 +17,8 @@
     },
     "options": {
         "specialist-examination": "Specialist resistance",
-        "remote-examination": "Remote health check",
-        "general-examination": "General health check",
+        "remote-examination": "Remote health",
+        "general-examination": "General health",
         "medical-test": "Medical test",
         "dental-examination": "Dental examination",
         "mental-health": "Mental health"
