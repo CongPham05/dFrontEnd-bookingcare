@@ -16,7 +16,12 @@
         "title2": "COMPREHENSIVE HEALTH CARE"
     },
     "options": {
-        "specialist-examination": "Specialist resistance"
+        "specialist-examination": "Specialist resistance",
+        "remote-examination": "Remote health check",
+        "general-examination": "General health check",
+        "medical-test": "Medical test",
+        "dental-examination": "Dental examination",
+        "mental-health": "Mental health"
     },
     "menu": {
         "admin": {

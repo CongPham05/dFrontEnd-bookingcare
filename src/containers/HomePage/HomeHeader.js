@@ -81,24 +81,24 @@ class HomeHeader extends Component {
                                     <div className='text-child'><FormattedMessage id="options.specialist-examination" /></div>
                                 </div>
                                 <div className='option-child'>
-                                    <div className='icon-child'><i className='far fa-hospital'></i></div>
-                                    <div className='text-child'><FormattedMessage id="options.specialist-examination" /></div>
+                                    <div className='icon-child'><i className="far fa-phone-rotary"></i></div>
+                                    <div className='text-child'><FormattedMessage id="options.remote-examination" /></div>
                                 </div>
                                 <div className='option-child'>
-                                    <div className='icon-child'><i className='far fa-hospital'></i></div>
-                                    <div className='text-child'><FormattedMessage id="options.specialist-examination" /></div>
+                                    <div className='icon-child'><i className="far fa-books-medical"></i></div>
+                                    <div className='text-child'><FormattedMessage id="options.general-examination" /></div>
                                 </div>
                                 <div className='option-child'>
-                                    <div className='icon-child'><i className='far fa-hospital'></i></div>
-                                    <div className='text-child'><FormattedMessage id="options.specialist-examination" /></div>
+                                    <div className='icon-child'><i className="fal fa-microscope"></i></div>
+                                    <div className='text-child'><FormattedMessage id="options.medical-test" /></div>
                                 </div>
                                 <div className='option-child'>
-                                    <div className='icon-child'><i className='far fa-hospital'></i></div>
-                                    <div className='text-child'><FormattedMessage id="options.specialist-examination" /></div>
+                                    <div className='icon-child'><i className="fal fa-tooth"></i></div>
+                                    <div className='text-child'><FormattedMessage id="options.dental-examination" /></div>
                                 </div>
                                 <div className='option-child'>
-                                    <div className='icon-child'><i className='far fa-hospital'></i></div>
-                                    <div className='text-child'><FormattedMessage id="options.specialist-examination" /></div>
+                                    <div className='icon-child'><i className="far fa-heartbeat"></i></div>
+                                    <div className='text-child'><FormattedMessage id="options.mental-health" /></div>
                                 </div>
                             </div>
                         </div>
