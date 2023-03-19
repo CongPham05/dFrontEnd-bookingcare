@@ -11,9 +11,9 @@ class HomeFooter extends Component {
             <div className='home-footer'>
                 <div className='footer__top'>
                     <div className='col-5'>
-                        <div ><h5>Công ty Cổ phần Công nghệ BookingCare</h5>
+                        <div ><h4><strong>Công ty Cổ phần Công nghệ BookingCare</strong></h4>
                             <p>
-                                28 Thành Thái, Dịch Vọng, Cầu Giấy, Hà Nội
+                                Địa chỉ: 28 Thành Thái, Dịch Vọng, Cầu Giấy, Hà Nội
                             </p>
                         </div>
 
